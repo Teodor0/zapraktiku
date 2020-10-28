@@ -1,0 +1,63 @@
+html,body{
+	height:100%;
+	width:100%;
+	color:#222;
+}
+.carousel-inner img{
+	
+	height:50%;
+	width:100%;
+}
+.carousel-caption {
+	position: absolute;
+	top:50%;
+	transform: translateY(-50%);
+
+}
+.carousel-caption h1 {
+	font-size: 500%;
+	text-transform: uppercase;
+	text-shadow: 1px 1px 10px #000;
+
+}
+.text1{
+	color:black;
+}
+.services-h1 {
+	font-size:60px;
+	color:rgb(34,34,34);
+	line-height:1.25;
+	text-align:left;
+	float:right;
+}
+.slika1{
+	height:1000%;
+	width: 700%;
+}
+.slika2{
+	height:300px;
+	width:800px;
+
+}
+.services-description {
+	font-size:18px;
+	color:black;
+	line-height:1.333;
+	text-align:right;
+	max-width:555px;
+	float:right;
+
+
+}
+.display-2{
+	color:red;
+	font-weight: bold;
+}
+.slika3{
+	height:100px;
+	width:100px;
+
+}
+
+
+
